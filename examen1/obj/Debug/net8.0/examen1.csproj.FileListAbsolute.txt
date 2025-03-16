@@ -1,0 +1,14 @@
+C:\Users\ALIENWARE\source\repos\examen1\bin\Debug\net8.0\examen1.exe
+C:\Users\ALIENWARE\source\repos\examen1\bin\Debug\net8.0\examen1.deps.json
+C:\Users\ALIENWARE\source\repos\examen1\bin\Debug\net8.0\examen1.runtimeconfig.json
+C:\Users\ALIENWARE\source\repos\examen1\bin\Debug\net8.0\examen1.dll
+C:\Users\ALIENWARE\source\repos\examen1\bin\Debug\net8.0\examen1.pdb
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\examen1.dll
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\refint\examen1.dll
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\examen1.pdb
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+C:\Users\ALIENWARE\source\repos\examen1\obj\Debug\net8.0\ref\examen1.dll
